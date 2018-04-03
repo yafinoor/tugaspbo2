@@ -7,6 +7,7 @@ public class rectangleaksi {
         rl.lebar = 4;
         
         rl.cetakinfo();
+        System.out.println("luas rectangle = "+rl.hitungluas());
     }
    
 }
