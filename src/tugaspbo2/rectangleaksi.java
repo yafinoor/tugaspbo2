@@ -5,6 +5,8 @@ public class rectangleaksi {
         rectangle rl = new rectangle ();
         rl.panjang = 9;
         rl.lebar = 4;
+        
+        rl.cetakinfo();
     }
    
 }
